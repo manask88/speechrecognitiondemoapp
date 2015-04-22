@@ -126,4 +126,4 @@ hs_err_pid*
 
 
 ##custom
-!apps/libs/**/*.jar
+!app/libs/**/*.jar
